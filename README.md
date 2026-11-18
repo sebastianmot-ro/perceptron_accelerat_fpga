@@ -1,4 +1,4 @@
-**to run**
+**to run python model**
 ```bash
 cd src/sw
 python -m plotting.plot_boundary
